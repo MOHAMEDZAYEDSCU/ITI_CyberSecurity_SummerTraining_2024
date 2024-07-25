@@ -1,0 +1,8 @@
+2_Different_Machines
+
+- Try to hack 2 machine using Metasploit through smb protocol
+
+- M1 -> https://download.vulnhub.com/metasploitable/Metasploitable.zip
+
+- M2 -> https://download.vulnhub.com/metasploitable/metasploitable-linux-2.0.0.zip
+

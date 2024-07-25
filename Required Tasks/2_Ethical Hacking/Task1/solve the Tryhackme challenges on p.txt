@@ -1,0 +1,6 @@
+solve the Tryhackme challenges on passive and active recon
+
+1. passive recon
+2. Active recon
+
+and take screen shots with your answers 
