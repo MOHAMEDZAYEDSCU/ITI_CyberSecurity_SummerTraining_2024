@@ -9,6 +9,7 @@ This Repo is to record my journey in the ITI Summer training. I only put the Tas
 
 ### How to Use
 
-1. **Required Tasks**: This folder contains all the tasks that are required to complete the boot camp.
+1. **Required Tasks**: This folder contains some of the tasks that are required to complete the boot camp.
 2. **Answers**: This folder contains the corresponding answers or solutions to the tasks.
 
+#### It doesn't include all the tasks or the material used due to copy rights ...
